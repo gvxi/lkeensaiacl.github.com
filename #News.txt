@@ -1,5 +1,5 @@
 NEWS#1
 Together_with_palestine.
-191, 170, 232
+196, 47, 55
 This_is_an_example_subtext_that_will_show_up_under_the_title.
 300
